@@ -7,7 +7,7 @@
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
   },
-  "homepage": "http://rishabh1403.com/snakegame/build",
+  "homepage": "http://rishabh1403.com/snake",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
